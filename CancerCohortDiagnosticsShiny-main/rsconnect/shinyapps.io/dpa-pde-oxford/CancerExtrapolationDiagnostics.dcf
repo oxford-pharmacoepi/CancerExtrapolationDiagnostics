@@ -1,0 +1,13 @@
+name: CancerExtrapolationDiagnostics
+title: CancerExtrapolationDiagnostics
+username:
+account: dpa-pde-oxford
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6810329
+bundleId: 6217353
+url: https://dpa-pde-oxford.shinyapps.io/CancerExtrapolationDiagnostics/
+when: 1660905194.65971
+lastSyncTime: 1660905194.65971
+asMultiple: FALSE
+asStatic: FALSE
