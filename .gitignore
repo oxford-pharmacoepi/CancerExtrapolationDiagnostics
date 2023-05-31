@@ -3,3 +3,5 @@
 data/PreMerged.RData
 CancerExtrapolationDiagnostics.dcf
 CodeToRun_local.R
+data/*
+CancerExtrapolationDiagnostics/*
