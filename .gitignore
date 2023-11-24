@@ -1,8 +1,11 @@
 
 .Rproj.user/*
 data/PreMerged.RData
-CancerExtrapolationDiagnostics.dcf
 CodeToRun_local.R
 data/*
 .Rprofile
 .Rhistory*
+.Rhistory
+rsconnect/shinyapps.io/dpa-pde-oxford/CancerExtrapolationDiagnostics.dcf
+.Rhistory
+.Rhistory
